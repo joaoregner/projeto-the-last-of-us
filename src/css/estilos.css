@@ -97,7 +97,7 @@ main:after {
     height: 100vh;
     object-fit: cover;
     display: none;
-    animation: mudarImagem 0.7s;
+    animation: mudarimagem 0.7s;
 }
 
 .carrossel .imagem.ativa{
